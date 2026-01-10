@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Agenda de Contactos</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1>📑 Agenda de Contactos</h1>
+
+    <form id="formulario">
+      <input type="text" id="nombre" placeholder="Nombre" />
+      <input type="text" id="telefono" placeholder="Teléfono" />
+      <div>
+        <button id="añadir" type="submit">Añadir</button>
+        <button id="cancelar">Cancelar</button>
+      </div>
+      <div class="error" id="error"></div>
+    </form>
+
+    <div id="paneles">
+      <div class="panel">
+        <h2>⭐ Favoritos</h2>
+        <div id="favoritos"></div>
+      </div>
+
+      <div class="panel">
+        <h2>👤 General</h2>
+        <div id="generales"></div>
+      </div>
+
+      <div class="panel">
+        <h2>🚫 Bloqueados</h2>
+        <div id="bloqueados"></div>
+      </div>
+    </div>
+
+    <div id="info" class="info">
+      <strong>Último contacto añadido:</strong>
+      <span id="ultimoContacto">Ninguno</span>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
