@@ -37,7 +37,7 @@ Permite gestionar una agenda de contactos con diferentes estados
 
 ## 📁 Estructura del proyecto
 ```text
-agenda-contactos/
+lista-contactos/
 ├── index.html   # Estructura principal
 ├── style.css    # Estilos y diseño
 ├── script.js    # Lógica de la aplicación
@@ -57,5 +57,6 @@ agenda-contactos/
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
+
 
 
