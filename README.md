@@ -1,4 +1,4 @@
-# 📑 Agenda de Contactos
+# 📑 Lista de Contactos
 
 Aplicación web desarrollada como proyecto de práctica para reforzar
 conceptos de **HTML, CSS y JavaScript puro**, sin uso de frameworks.
@@ -57,4 +57,5 @@ agenda-contactos/
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
+
 
