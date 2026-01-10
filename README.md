@@ -48,7 +48,7 @@ lista-contactos/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/lista-contaactos
+   git clone https://github.com/Rusby6/lista-contactos
    ```
 
 2. Accede al directorio del proyecto:
@@ -57,6 +57,7 @@ lista-contactos/
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
+
 
 
 
